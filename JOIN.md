@@ -1,4 +1,4 @@
-# SELECT within SELECT Tutorial
+# JOIN
 
 1. Show the matchid and player name for all goals scored by Germany. To identify German players
 ```sql

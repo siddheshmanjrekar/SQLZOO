@@ -1,4 +1,4 @@
-# SELECT within SELECT Tutorial
+# Using Null
 
 1. List the teachers who have NULL for their department.
 ```sql
